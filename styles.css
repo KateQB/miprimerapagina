@@ -124,3 +124,5 @@ width: 100%;
 footer{height: 200px ;
 display: flex;}
 main{display: flex;}
+
+.greeting {text-align: center;}
